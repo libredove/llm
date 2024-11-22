@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 # Load and run the model:
 llama-cli \
   --hf-repo "bartowski/Llama-3.2-3B-Instruct-uncensored-GGUF" \
